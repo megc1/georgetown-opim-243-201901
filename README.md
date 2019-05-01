@@ -16,7 +16,7 @@ Credits | 1.5 each
 
 OPIM 243:
 
-> Today’s businesses rely on application software to perform operations, aid decision-making, and drive competitive advantage. In this introductory course, students will learn how to write practical business applications in the Python programming language. No prior programming experience is required. Throughout the semester, students will be immersed in hands-on Python programming projects and should emerge with marketable technology skills.
+> Today's businesses rely on application software to perform operations, aid decision-making, and drive competitive advantage. In this introductory course, students will learn how to write practical business applications in the Python programming language. No prior programming experience is required. Throughout the semester, students will be immersed in hands-on Python programming projects and should emerge with marketable technology skills.
 
 OPIM 244:
 
@@ -43,11 +43,11 @@ OPIM 243:
 
 OPIM 244:
 
-  + [Unit 8](/units/unit-8.md) - Delivery and Distribution
-  + Unit 9 - Maintenance and Quality Control
-  + Unit 10 - Planning and Design
-  + Unit 11 - Implementation Sprint
-  + Unit 12 - Review
+  + [Unit 8](/units/unit-8.md) - Software Products and Services
+  + [Unit 9](/units/unit-9.md) - Planning, Analysis, and Design
+  + [Unit 10](/units/unit-10.md) - Maintenance and Quality Control
+  + [Unit 11](/projects/freestyle/implementation.md) - Implementation Sprint
+  + [Unit 12](/projects/freestyle/demo.md) - Demo Days
 
 ## Resources
 
